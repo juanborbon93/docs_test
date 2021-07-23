@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+---
+nav_order: 1
+---
+
+## Home
 
 You can use the [editor on GitHub](https://github.com/juanborbon93/docs_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
