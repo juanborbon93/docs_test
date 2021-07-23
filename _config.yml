@@ -1,1 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
+layout: default
+title: Docs Example
+nav_order: 3
